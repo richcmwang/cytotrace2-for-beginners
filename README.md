@@ -21,9 +21,9 @@ CytoTRACE2 is a deep learning model that uses gene expression data to estimate a
 
 | File/Folder                  | Description |
 |-----------------------------|-------------|
-| `example_pancreas.ipynb`     | A Jupyter notebook that runs CytoTRACE2 on a mouse pancreas dataset. |
-| `example_cordblood.ipynb`    | *(planned)* A notebook for applying CytoTRACE2 to human cord blood immune cells. |
-| `immunogenicity_score.ipynb` | *(in preparation)* An exploratory notebook on how CytoTRACE2 scores may relate to immune marker expression. |
+| `example_pancreas_colab.ipynb`     | A Jupyter notebook that runs CytoTRACE2 on a mouse pancreas dataset. |
+| `example_cordblood_colab.ipynb`    | *(planned)* A notebook for applying CytoTRACE2 to human cord blood immune cells. |
+| `immunogenicity_score_colab.ipynb` | *(in preparation)* An exploratory notebook on how CytoTRACE2 scores may relate to immune marker expression. |
 | `requirements.txt`           | Python dependencies to run the notebooks. |
                 
 
