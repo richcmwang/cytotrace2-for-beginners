@@ -1,5 +1,5 @@
 # CytoTRACE2 for Beginners  
-*A simple guide to estimating cell potency from single-cell RNA-seq data*
+*An unofficial, beginner-friendly collection of Colab notebooks for estimating cell potency from single-cell RNA-seq data using CytoTRACE2*
 
 This repository is intended for anyone, especially those with limited biology background who wants to explore **CytoTRACE2**, a tool that predicts how stem-like or differentiated a cell is using single-cell RNA-seq data.
 
